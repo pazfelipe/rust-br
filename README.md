@@ -21,3 +21,5 @@ Se você quer contribuir com essa documentação, você pode fazer um fork desse
 ### Como posso entrar em contato?
 
 Se você quiser entrar em contato comigo, você pode me mandar um e-mail para [xxfelipepaz@gmail.com](mailto:xxfelipepaz@gmail.com), me mandar uma mensagem no [Twitter](https://twitter.com/_FelipePaz_) ou me mandar uma mensagem no [Telegram](https://t.me/felipepaz).
+
+Confira a lista de [Capítulos](/rust-br/chapters.md)
