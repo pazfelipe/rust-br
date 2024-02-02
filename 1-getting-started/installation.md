@@ -83,3 +83,17 @@ $ echo $PATH
 ```
 
 Se tudo estiver correto e mesmo assim o Rust ainda não funcionar, há um monte de lugares que você pode obter ajuda. Veja como entrar em contato com os nossos `Rustaceans` (como nos chamamos carinhosamente) em nossa [comunidade](https://www.rust-lang.org/community).
+
+## Atualizando e Desinstalando
+
+Uma vez que o Rust tenha sido instalado via `rustup`, atualizar para uma versão mais nova é simples. Abra um novo terminal e execute o seguinte comando:
+
+```shell
+$ rustup update
+```
+
+Para desinstalar o Rust e o `rustup`, execute o seguinte comando:
+
+```shell
+$ rustup self uninstall
+```
