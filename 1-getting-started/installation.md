@@ -1,6 +1,8 @@
 # Linguagem de Programção Rust
 
-## Instalacão
+[Lista de capítulos](/chapters.md) - [Primeiros Passos](./README.md) - Instalação
+
+## Instalação
 
 O primeiro passo é instalar Rust. Vamos fazer a instalação através do `rustup`, uma ferramenta de linha de comando para gerenciar versões e ferramentas relacionadas ao Rust. Você vai precisar de uma conexão com a internet para fazer o download.
 

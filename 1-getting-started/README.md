@@ -1,5 +1,7 @@
 # Linguagem de Programção Rust
 
+[Lista de capítulos](/chapters.md) - Primeiros Passos
+
 ## Introdução
 
 Vamos iniciar com sua jornada com Rust! Há muito para aprender, mas cada viagem inicia em algum lugar. Neste capítulo discutiremos os seguintes tópicos:
