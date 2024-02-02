@@ -97,3 +97,9 @@ Para desinstalar o Rust e o `rustup`, execute o seguinte comando:
 ```shell
 $ rustup self uninstall
 ```
+
+## Documentação local
+
+A instalação do Rust também inclui uma cópia local da documentação para você poder lê-la offiline. Rode `rustup doc` para abrir a documentação local no seu navegador.
+
+Em qualquer momento que um tipo ou função for disponibilizada pela biblioteca padrão e você não estiver certo sobre o que ela faz ou como usar, use a API de documentação para descobrir.
