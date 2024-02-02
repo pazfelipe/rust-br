@@ -47,3 +47,39 @@ Para obter essas ferramentas de build, você vai precisar instalar o [Visual Stu
 - Pacote do idioma de componentes em inglês, junto com algum outro pacote de idioma de sua escolha.
 
 O restante desse livro usa comandos que funcionam em ambos `cmd.exe` e `PowerShell`. Se houver diferenças, explicarems qual usar.
+
+## Solução de Problemas
+
+Para se certificar de que você instalou corretamente Rust, abra um novo terminal e insira o comando:
+
+```shell
+$ rustc --version
+```
+
+Você deverá ver o número da versão, o hash do commit, a data do commit da última versão estável disponibilizada, no seguinte formato:
+
+```shell
+rustc x.y.z (abcabcabc yyyy-mm-dd)
+```
+
+Se você vir essa mensagem, você instalou Rust corretamente. Caso você não veja essa informação, verifique se o Rust está na sua variável de ambiente `%PATH%`.
+
+No Windows CMD, use:
+
+```shell
+> echo %PATH%
+```
+
+No PowerShell, use:
+
+```shell
+> echo $env:Path
+```
+
+No Linux ou no macOS, use:
+
+```shell
+$ echo $PATH
+```
+
+Se tudo estiver correto e mesmo assim o Rust ainda não funcionar, há um monte de lugares que você pode obter ajuda. Veja como entrar em contato com os nossos `Rustaceans` (como nos chamamos carinhosamente) em nossa [comunidade](https://www.rust-lang.org/community).
