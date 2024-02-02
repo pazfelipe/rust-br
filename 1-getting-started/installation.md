@@ -36,3 +36,14 @@ $ xcode-select --install
 
 Usuários de Linux geralmente instalam `GCC` ou `Clang`, dependendo da documentação da sua distribuição (distro). Por exemplo, se você estiver usando `Ubuntu` pode instalar o pacote `buidl-essentials`.
 
+## Instalando rustup no Windows
+
+No Windows, vá até a página [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install) e siga as instruções para instalar Rust. Em algum momento da instalação, você vai receber uma mensagem explicando que você também vai precisar do `MSVC build tools` para o `Visual Studio 2013` ou posterior.
+
+Para obter essas ferramentas de build, você vai precisar instalar o [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/). Quando perguntado sobre quais itens instalar, inclua:
+
+- Desktop Developmenet with C++
+- The Windows 10 or 11 SDK
+- Pacote do idioma de componentes em inglês, junto com algum outro pacote de idioma de sua escolha.
+
+O restante desse livro usa comandos que funcionam em ambos `cmd.exe` e `PowerShell`. Se houver diferenças, explicarems qual usar.
