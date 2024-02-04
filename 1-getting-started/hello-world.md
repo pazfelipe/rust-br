@@ -1,4 +1,4 @@
-# Linguagem de Programção Rust
+# Linguagem de Programação Rust
 
 [Lista de capítulos](/chapters.md) - [Primeiros Passos](./README.md) - Olá Mundo!
 
