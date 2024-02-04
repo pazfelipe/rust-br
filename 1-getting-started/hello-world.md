@@ -64,7 +64,7 @@ No Windows, insira o comando `.\main.rs` ao invés de `./main`
 Olá, mundo!
 ```
 
-Independente do seu sistea operacional, o texto `Olá, mundo!` deverá aparecer no terminal. Se você não vir essa saída, consulte novamente  página de [Soluções de Problemas](/1-getting-started/installation.md#solução-de-problemas) para ver meios que possam ajudar.
+Independente do seu sistea operacional, o texto `Olá, mundo!` deverá aparecer no terminal. Se você não vir essa saída, consulte novamente  página de [Soluções de Problemas](../1-getting-started/installation.md#solução-de-problemas) para ver meios que possam ajudar.
 
 Se o texto `Olá, mundo!` for mostrado, parabéns! Você oficialmente escreveu um programa em Rust. Isso te dá um boas-vindas-programador Rust!
 
