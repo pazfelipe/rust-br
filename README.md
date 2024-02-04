@@ -22,4 +22,4 @@ Se você quer contribuir com essa documentação, você pode fazer um fork desse
 
 Se você quiser entrar em contato comigo, você pode me mandar um e-mail para [xxfelipepaz@gmail.com](mailto:xxfelipepaz@gmail.com), me mandar uma mensagem no [Twitter](https://twitter.com/_FelipePaz_) ou me mandar uma mensagem no [Telegram](https://t.me/felipepaz).
 
-Confira a lista de [Capítulos](https://github.com/pazfelipe/rust-br/blob/main/chapters.md)
+Confira a lista de [Capítulos](/chapters.md)
